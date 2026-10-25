@@ -225,7 +225,7 @@ df_wider %>%
 
 ## reading in csv files with read.csv()
 
-Penguins_nests <- read.csv("data/AllCounts_V_4_4.csv")
+Penguins_nests <- read.csv("AllCounts_V_4_4.csv")
 
 ## Or can be done using path to wherever the data is located
 
